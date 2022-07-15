@@ -6,7 +6,7 @@ date: 2022-07-14T21:57:40+08:00
 lastmod: 2022-07-14T16:45:40+08:00
 draft: false
 authors: ["seven"]
-featuredImage: "1657789881592.jpg"
+featuredImage: "1657789881592.png"
 link: "https://www.mrblock.tw"
 tags: ["元宇宙资讯","区块先生"]
 categories: ["navigation"]
